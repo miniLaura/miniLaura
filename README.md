@@ -28,7 +28,12 @@ C • C++ • Java • Python • Flask • SQL • HTML • CSS • Git
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniLaura&show_icons=true&theme=tokyonight)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miniLaura/miniLaura/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miniLaura/miniLaura/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miniLaura/miniLaura/output/pacman-contribution-graph.svg">
+</picture>
 
-## 💻 Most Used Languages
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniLaura&layout=compact&theme=tokyonight)
+
