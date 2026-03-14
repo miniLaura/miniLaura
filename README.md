@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋! I'm Laura Eduarda</h1>
+<h3 align="center">💻 Systems Developer | 📊 Data Analysis Enthusiast</h3>
 
-<!--
-**miniLaura/miniLaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Software Engineering Student <br>
+📍 Brazil
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🔎 Passionate about technology and problem solving  
+- 📊 Interested in Data Analysis and Backend Development  
+- ⚙️ Experience with systems analysis and process improvement  
+- 🚀 Always learning and building new projects  
+
+---
+
+## 🚀 Tech Stack
+
+C • C++ • Java • Python • Flask • SQL • HTML • CSS • Git
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniLaura&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniLaura&layout=compact&theme=tokyonight)
