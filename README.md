@@ -21,14 +21,6 @@
 
 C • C++ • Java • Python • Flask • SQL • HTML • CSS • Git
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniLaura&show_icons=true&theme=tokyonight)
-
----
-
 
 
 
