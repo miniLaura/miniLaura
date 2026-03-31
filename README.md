@@ -19,7 +19,7 @@
 
 ## 🚀 Tech Stack
 
-C • C++ • Java • Python • Flask • SQL • HTML • CSS • Git
+C • C++ • Java • JavaScript • Python • Flask • SQL • HTML • CSS • Git
 
 
 
